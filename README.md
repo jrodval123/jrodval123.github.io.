@@ -1,3 +1,3 @@
-# stack.js
+# ENGR 3100 Project Presentaion Using Stack.js
 
-A presentation library with intuitive, scroll-based navigation.
+
